@@ -40,7 +40,7 @@
    ───────────────────────────────────────────── */
 
 /** Change this string whenever you deploy updated assets. */
-const CACHE_VERSION = 'v4';
+const CACHE_VERSION = 'v5';
 
 /** Unique cache name for this version of the app. */
 const CACHE_NAME = `app-cache-${CACHE_VERSION}`;
@@ -58,7 +58,7 @@ const CACHE_URLS = [
   '/AllesDrehtSichWeiter/js/main.js',
   '/AllesDrehtSichWeiter/manifest.json',
   '/AllesDrehtSichWeiter/assets/video/alles-dreht-sich-weiter.mp4',
-  '/AllesDrehtSichWeiter/assets/video/alles-dreht-sich-weiter.png',
+  '/AllesDrehtSichWeiter/assets/video/alles-dreht-sich-weiter.webp',
   '/AllesDrehtSichWeiter/assets/icons/icon-512.png',
 ];
 

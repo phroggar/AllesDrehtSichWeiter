@@ -63,7 +63,7 @@
        Controls the browser chrome color on mobile.
        Match this to your --color-primary in style.css.
   ───────────────────────────────────────────── -->
-  <meta name="theme-color" content="#2563eb" />
+  <meta name="theme-color" content="#000000" />
 
   <!-- ─────────────────────────────────────────────
        STYLESHEET
@@ -87,6 +87,8 @@
        MAIN CONTENT
        id="main-content" is the skip-link target.
   ═══════════════════════════════════════════ -->
+  <div class="background-blur" style="background-image: url('assets/video/alles-dreht-sich-weiter.webp');" aria-hidden="true"></div>
+
   <main id="main-content">
 
     <!-- ─────────────────────────────────────────────
@@ -94,7 +96,7 @@
          The main content of the app: a video player.
     ───────────────────────────────────────────── -->
     <section class="section section--video" aria-labelledby="video-heading">
-      <div class="container">
+      <div class="video-container">
         <h1 id="video-heading" class="sr-only">Alles dreht sich weiter</h1>
         <div class="video-player">
           <video id="main-video" controls poster="assets/video/alles-dreht-sich-weiter.webp">
