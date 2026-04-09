@@ -1,12 +1,12 @@
 {
   "_comment": "PWA Web App Manifest — OPTIONAL. Remove this file and the <link rel='manifest'> tag in index.html if you do not need PWA features.",
 
-  "name": "App Name",
-  "short_name": "App",
-  "description": "A short description of what this app does.",
+  "name": "Alles dreht sich weiter",
+  "short_name": "AllesDreht",
+  "description": "Alles dreht sich weiter - Progressive Web App",
 
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/AllesDrehtSichWeiter/",
+  "scope": "/AllesDrehtSichWeiter/",
 
   "display": "standalone",
   "orientation": "any",
