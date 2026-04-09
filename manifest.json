@@ -2,8 +2,8 @@
   "_comment": "PWA Web App Manifest — OPTIONAL. Remove this file and the <link rel='manifest'> tag in index.html if you do not need PWA features.",
 
   "name": "Alles dreht sich weiter",
-  "short_name": "AllesDreht",
-  "description": "Alles dreht sich weiter - Progressive Web App",
+  "short_name": "AllesDrehtSichWeiter",
+  "description": "Alles dreht sich weiter - A tribute to Jutta",
 
   "start_url": "/AllesDrehtSichWeiter/",
   "scope": "/AllesDrehtSichWeiter/",
@@ -17,7 +17,7 @@
   "lang": "en",
   "dir": "ltr",
 
-  "categories": ["utilities"],
+  "categories": ["entertainment"],
 
   "icons": [
     {
